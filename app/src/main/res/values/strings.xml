@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld(KOT)</string>
+    <string name="HelloWorldintro">Hello World! My name is Jordez Fernandez and i love android and dogs!</string>
+    <string name="say_hello">Say Hello!</string>
+</resources>
